@@ -1,0 +1,14 @@
+D:\DANIELA\PROGRAMACAO\CSharp\Exercicios\ExercMembEst1\ExercMembEst1\bin\Debug\netcoreapp3.1\ExercMembEst1.exe
+D:\DANIELA\PROGRAMACAO\CSharp\Exercicios\ExercMembEst1\ExercMembEst1\bin\Debug\netcoreapp3.1\ExercMembEst1.deps.json
+D:\DANIELA\PROGRAMACAO\CSharp\Exercicios\ExercMembEst1\ExercMembEst1\bin\Debug\netcoreapp3.1\ExercMembEst1.runtimeconfig.json
+D:\DANIELA\PROGRAMACAO\CSharp\Exercicios\ExercMembEst1\ExercMembEst1\bin\Debug\netcoreapp3.1\ExercMembEst1.runtimeconfig.dev.json
+D:\DANIELA\PROGRAMACAO\CSharp\Exercicios\ExercMembEst1\ExercMembEst1\bin\Debug\netcoreapp3.1\ExercMembEst1.dll
+D:\DANIELA\PROGRAMACAO\CSharp\Exercicios\ExercMembEst1\ExercMembEst1\bin\Debug\netcoreapp3.1\ExercMembEst1.pdb
+D:\DANIELA\PROGRAMACAO\CSharp\Exercicios\ExercMembEst1\ExercMembEst1\obj\Debug\netcoreapp3.1\ExercMembEst1.csproj.AssemblyReference.cache
+D:\DANIELA\PROGRAMACAO\CSharp\Exercicios\ExercMembEst1\ExercMembEst1\obj\Debug\netcoreapp3.1\ExercMembEst1.GeneratedMSBuildEditorConfig.editorconfig
+D:\DANIELA\PROGRAMACAO\CSharp\Exercicios\ExercMembEst1\ExercMembEst1\obj\Debug\netcoreapp3.1\ExercMembEst1.AssemblyInfoInputs.cache
+D:\DANIELA\PROGRAMACAO\CSharp\Exercicios\ExercMembEst1\ExercMembEst1\obj\Debug\netcoreapp3.1\ExercMembEst1.AssemblyInfo.cs
+D:\DANIELA\PROGRAMACAO\CSharp\Exercicios\ExercMembEst1\ExercMembEst1\obj\Debug\netcoreapp3.1\ExercMembEst1.csproj.CoreCompileInputs.cache
+D:\DANIELA\PROGRAMACAO\CSharp\Exercicios\ExercMembEst1\ExercMembEst1\obj\Debug\netcoreapp3.1\ExercMembEst1.dll
+D:\DANIELA\PROGRAMACAO\CSharp\Exercicios\ExercMembEst1\ExercMembEst1\obj\Debug\netcoreapp3.1\ExercMembEst1.pdb
+D:\DANIELA\PROGRAMACAO\CSharp\Exercicios\ExercMembEst1\ExercMembEst1\obj\Debug\netcoreapp3.1\ExercMembEst1.genruntimeconfig.cache
